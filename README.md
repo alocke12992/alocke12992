@@ -5,10 +5,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  **Working :** Full-stack (python, javascript, AWS, Mongo) software engineer @ [Apostrophe](https://www.apostrophe.com/) <img src="https://assets.apostrophe.com/favicons/apple-touch-icon.png" height="20" width="20" />
--  **Learning :** TypeScript :zap: | Mandarin 🇹🇼
--  **Hobbies :** Lifting 🏋️‍ | Motorcycles 🏍
--  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Working :** Full-stack (python, javascript, AWS, Mongo) Senior software engineer @ [Spiral](https://www.spiral.us/)
+-  **Learning :** Rust
+-  **Hobbies :** Lifting 🏋️‍ | Surfing | Surboard Shaping
 -  **Fun fact :** I served 6 years in the US Army. 🇺🇸
 -  **Pronouns :** He/Him/His :innocent:
 
