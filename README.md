@@ -5,11 +5,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  **Working :** Full-stack (python, javascript, AWS, Mongo) Senior software engineer @ [Spiral](https://www.spiral.us/)
+-  **Working :** Full-stack (python, javascript, AWS, Mongo) Senior software engineer @ [Vannevar]
 -  **Learning :** Rust
 -  **Hobbies :** Lifting 🏋️‍ | Surfing | Surboard Shaping
 -  **Fun fact :** I served 6 years in the US Army. 🇺🇸
--  **Pronouns :** He/Him/His :innocent:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
